@@ -1,0 +1,6 @@
+{
+  "exp_name": "LR_Data2/1",
+  "test_size": 0.01,
+  "window_size": 5,
+  "num_stocks": 4
+}

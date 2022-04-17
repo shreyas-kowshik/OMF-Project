@@ -1,0 +1,6 @@
+{
+  "exp_name": "SVR/6",
+  "test_size": 0.06,
+  "window_size": 5,
+  "num_stocks": 4
+}

@@ -1,0 +1,10 @@
+python lstm_asset_selection.py --exp_name lstm_data2_window_5/1 --epochs 3000 --test_size 0.01
+python lstm_asset_selection.py --exp_name lstm_data2_window_5/2 --epochs 3000 --test_size 0.02
+python lstm_asset_selection.py --exp_name lstm_data2_window_5/3 --epochs 3000 --test_size 0.03
+python lstm_asset_selection.py --exp_name lstm_data2_window_5/4 --epochs 3000 --test_size 0.04
+python lstm_asset_selection.py --exp_name lstm_data2_window_5/5 --epochs 3000 --test_size 0.05
+python lstm_asset_selection.py --exp_name lstm_data2_window_5/6 --epochs 3000 --test_size 0.06
+python lstm_asset_selection.py --exp_name lstm_data2_window_5/7 --epochs 3000 --test_size 0.07
+python lstm_asset_selection.py --exp_name lstm_data2_window_5/8 --epochs 3000 --test_size 0.08
+python lstm_asset_selection.py --exp_name lstm_data2_window_5/9 --epochs 3000 --test_size 0.09
+python lstm_asset_selection.py --exp_name lstm_data2_window_5/10 --epochs 3000 --test_size 0.1

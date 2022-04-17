@@ -1,0 +1,9 @@
+{
+  "exp_name": "7",
+  "test_size": 0.07,
+  "window_size": 5,
+  "epochs": 3000,
+  "learning_rate": 0.01,
+  "hidden": 200,
+  "num_stocks": 4
+}
